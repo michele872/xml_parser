@@ -1,6 +1,7 @@
 # import xml element tree
 import xml.etree.ElementTree as ET
   
+  
 # import mysql connector
 import mysql.connector
 def executeParse(request):  
